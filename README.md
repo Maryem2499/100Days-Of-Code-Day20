@@ -10,5 +10,5 @@ Npus allons nous attaquer aux 3 premier étapes ce jour là :
   1-Serpent
   2-Nourriture
   3-Tablea d'affichage
-##Controler le serpent à l'aide de commandes de clavier.
+## Controler le serpent à l'aide de commandes de clavier.
   Controler notre serpent en utilisant les fléches hout, bas, gauche et droite de la clavier.
