@@ -1,4 +1,4 @@
-# Jeu de serpent p1
+# Jeu de serpent Part-1
 Ce jeu est construit sur deux jours (20 & 21) - au jour 20 nous nous occupons de l'animation et des coordonnées et on va décomposer notre probléme en 7 étapes.
 
 Npus allons nous attaquer aux 3 premier étapes ce jour là :
